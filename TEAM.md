@@ -11,7 +11,7 @@
 |---|---|
 | ชื่อทีม | Omga |
 | Section | 1 |
-| แบบ | <คู่ หรือ 3 คน> |
+| แบบ | 3 คน |
 | repo | https://github.com/beem35/engse203-final-1-T07 |
 | repo take-home | <ใส่หลังสร้าง repo ข้อสอบปลายภาค Part 1 — ดูสัปดาห์ที่ 17> |
 
