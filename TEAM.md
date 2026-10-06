@@ -1,4 +1,4 @@
-# ทีม <ชื่อทีม> — ENGSE203 Final Term Project
+# ทีม Omega — ENGSE203 Final Term Project
 
 > **M0 · จับคู่ + เลือกหัวข้อ** — กรอกไฟล์นี้ที่ root ของ repo ทีม แล้วส่งลิงก์ repo ใน LMS (ทีมละ 1 ครั้ง)
 > กำหนด: **Section 1 ภายใน จ. 5 ต.ค. 23:59** · **Section 2 ภายใน พฤ. 8 ต.ค. 23:59**
@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| ชื่อทีม | Omga |
+| ชื่อทีม | Omega |
 | Section | 1 |
 | แบบ | 3 คน |
 | repo | https://github.com/beem35/engse203-final-1-T07 |
@@ -20,8 +20,8 @@
 | ชื่อ-นามสกุล | รหัสนักศึกษา | GitHub | อีเมลที่ใช้ commit | บทบาท |
 |---|---|---|---|---|
 | ปัณณวัฒน์ สิทธิตัน | 68543210035-0 | beem35 | beemmlg1234@gmail.com | devops |
-| <ชื่อ นามสกุล> | <6xxxxxxxxxx-x> | <username> | <ผลของ git config user.email> | <fe> |
-| <ชื่อ นามสกุล> | <6xxxxxxxxxx-x> | <username> | <ผลของ git config user.email> | <be> |
+| ธนโชติ จาติระดุก | 68543210010-3 | Thanachot-Jatiradook | jatiradook13@gmail.com | fe |
+| <ชื่อ นามสกุล> | <6xxxxxxxxxx-x> | <username> | <ผลของ git config user.email> | be |
 
 
 - บทบาท — ทีมคู่: `fe` · `be+devops` · ทีม 3 คน: `fe` · `be` · `devops` (มีได้ 1 ทีมต่อ Section · เพิ่มแถวที่ 3)
