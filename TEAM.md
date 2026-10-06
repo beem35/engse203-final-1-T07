@@ -19,7 +19,7 @@
 
 | ชื่อ-นามสกุล | รหัสนักศึกษา | GitHub | อีเมลที่ใช้ commit | บทบาท |
 |---|---|---|---|---|
-| ปัณณวัฒน์ สิทธิตัน | 68543210035-0 | beem35 | beemmlg1234@gmail.com | <devops> |
+| ปัณณวัฒน์ สิทธิตัน | 68543210035-0 | beem35 | beemmlg1234@gmail.com | devops |
 | <ชื่อ นามสกุล> | <6xxxxxxxxxx-x> | <username> | <ผลของ git config user.email> | <fe> |
 | <ชื่อ นามสกุล> | <6xxxxxxxxxx-x> | <username> | <ผลของ git config user.email> | <be> |
 
